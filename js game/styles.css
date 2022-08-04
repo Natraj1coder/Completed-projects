@@ -1,0 +1,20 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Helvetica';
+    width: 800px;
+    height: 600px;
+
+}
+.wrapper{
+    border: 3px solid #010124;
+    width:  800px;
+    height: 600px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
